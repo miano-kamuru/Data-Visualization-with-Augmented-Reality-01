@@ -1,5 +1,6 @@
-# Scatterplot in Augmented Reality
+# Scatterplot in Augmented Reality 
 This project explores how AR can enhance data visualization, allowing users to intuitively explore and interact with 3D scatterplots in the real-world environment.
+https://www.instagram.com/reel/CtX26g5rqYA/?utm_source=ig_web_copy_link
 ## Features:
 - 📐 3D Scatterplot Rendering: Prototype includes depth, color, and size to represent multiple dimensions of data.
 - 🕹️ Basic Interaction: View and navigate scatterplots in AR to explore data spatially.
