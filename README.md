@@ -13,6 +13,7 @@ https://www.instagram.com/reel/CtX26g5rqYA/?utm_source=ig_web_copy_link
 ## Requirements:
 - Meta Spark AR Studio
 - Compatible device for testing AR experiences.
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/vt5fpE0bzSY)
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kj8tagckTfE/0.jpg)](https://www.youtube.com/watch?v=kj8tagckTfE)
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/S5pJJluI0-A/0.jpg)](https://www.youtube.com/watch?v=S5pJJluI0-A)
